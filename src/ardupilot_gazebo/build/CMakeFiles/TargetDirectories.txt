@@ -1,0 +1,8 @@
+/home/chris/ardupilot_gazebo/build/CMakeFiles/install/strip.dir
+/home/chris/ardupilot_gazebo/build/CMakeFiles/install/local.dir
+/home/chris/ardupilot_gazebo/build/CMakeFiles/ArduPilotPlugin.dir
+/home/chris/ardupilot_gazebo/build/CMakeFiles/install.dir
+/home/chris/ardupilot_gazebo/build/CMakeFiles/ArduCopterIRLockPlugin.dir
+/home/chris/ardupilot_gazebo/build/CMakeFiles/edit_cache.dir
+/home/chris/ardupilot_gazebo/build/CMakeFiles/rebuild_cache.dir
+/home/chris/ardupilot_gazebo/build/CMakeFiles/list_install_components.dir
